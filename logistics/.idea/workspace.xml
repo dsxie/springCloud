@@ -1,0 +1,907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f64b41b3-cf0d-42e6-b10a-a73f71e54e23" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/kitty-consul/target/" />
+    <ignored path="$PROJECT_DIR$/kitty-common/target/" />
+    <ignored path="$PROJECT_DIR$/kitty-monitor/target/" />
+    <ignored path="$PROJECT_DIR$/kitty-conifg/target/" />
+    <ignored path="$PROJECT_DIR$/kitty-producer/target/" />
+    <ignored path="$PROJECT_DIR$/kitty-pom/target/" />
+    <ignored path="$PROJECT_DIR$/kitty-backup/target/" />
+    <ignored path="$PROJECT_DIR$/kitty-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/kitty-core/target/" />
+    <ignored path="$PROJECT_DIR$/kitty-hystrix/target/" />
+    <ignored path="$PROJECT_DIR$/kitty-admin/target/" />
+    <ignored path="$PROJECT_DIR$/kitty-zipkin/target/" />
+    <ignored path="$PROJECT_DIR$/kitty-zuul/target/" />
+    <ignored path="$PROJECT_DIR$/kitty-producer2/target/" />
+    <ignored path="$PROJECT_DIR$/Logistics-admin/target/" />
+    <ignored path="$PROJECT_DIR$/Logistics-common/target/" />
+    <ignored path="$PROJECT_DIR$/Logistics-core/target/" />
+    <ignored path="$PROJECT_DIR$/Logistics-backup/target/" />
+    <ignored path="$PROJECT_DIR$/Logistics-monitor/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/Logistics-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/Logistics-producer/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/controller/SysUserFeginController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#762#763#0" expanded="true" />
+                <element signature="e#818#819#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/controller/SysUserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="90" selection-start-line="90" selection-end-line="90" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/service/SysUserFeginService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/ConsumerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#473#474#0" expanded="true" />
+                <element signature="e#543#544#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Logistics-admin/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1254">
+              <caret line="123" column="21" selection-start-line="119" selection-start-column="7" selection-end-line="123" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Logistics-admin/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="12" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Logistics-consumer/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Logistics-consumer/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="109">
+              <caret line="54" column="51" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>monitor</find>
+      <find>HttpResult</find>
+      <find>/login&quot;)</find>
+      <find>qq</find>
+      <find>findPageByName</find>
+      <find>findUserRoles</find>
+      <find>back</find>
+      <find>Logistics-consumer</find>
+      <find>login</find>
+      <find>el-icon-service</find>
+      <find>com.zgwl</find>
+      <find>findAll</find>
+      <find>captcha</find>
+      <find>actuator</find>
+      <find>logistics-core</find>
+      <find>168000</find>
+      <find>feign</find>
+      <find>PageRequest</find>
+      <find>Origin</find>
+      <find>token</find>
+      <find>Logistics-admin</find>
+      <find>produc</find>
+      <find>-producer</find>
+      <find>Kitty</find>
+      <find>kitty</find>
+      <find>rib</find>
+      <find>fe</find>
+      <find>findPage</find>
+      <find>8500</find>
+      <find>producer</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>@author xds</replace>
+      <replace />
+      <replace>t_sys_user</replace>
+      <replace>com.zgwl.logistics</replace>
+      <replace>Logistics</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\projects\vueProject\kitty\phylb-kitty-master\kitty\kitty-admin</dir>
+      <dir>D:\projects\vueProject\kitty\phylb-kitty-master\kitty\kitty-common</dir>
+      <dir>D:\projects\vueProject\kitty\phylb-kitty-master\kitty</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/vo/LoginBean.java" />
+        <option value="$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/controller/SysUserController.java" />
+        <option value="$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/service/impl/SysUserFeginServiceImpl.java" />
+        <option value="$PROJECT_DIR$/Logistics-core/src/main/java/com/zgwl/logistics/core/service/CurdService.java" />
+        <option value="$PROJECT_DIR$/Logistics-common/src/main/java/com/zgwl/logistics/common/page/MybatisPageHelper.java" />
+        <option value="$PROJECT_DIR$/Logistics-common/src/main/java/com/zgwl/logistics/common/service/CurdService.java" />
+        <option value="$PROJECT_DIR$/Logistics-common/pom.xml" />
+        <option value="$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/AdminApplication.java" />
+        <option value="$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/model/SysUser.java" />
+        <option value="$PROJECT_DIR$/Logistics-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/sevice/SysLogService.java" />
+        <option value="$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/sevice/impl/SysDictServiceImpl.java" />
+        <option value="$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/sevice/SysDictService.java" />
+        <option value="$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/sevice/SysDeptService.java" />
+        <option value="$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/sevice/SysMenuService.java" />
+        <option value="$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/sevice/SysRoleService.java" />
+        <option value="$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/sevice/SysUserService.java" />
+        <option value="$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/sevice/impl/SysDeptServiceImpl.java" />
+        <option value="$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/sevice/impl/SysLogServiceImpl.java" />
+        <option value="$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/sevice/impl/SysMenuServiceImpl.java" />
+        <option value="$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/sevice/impl/SysRoleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/sevice/impl/SysUserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/controller/SysDeptController.java" />
+        <option value="$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/controller/SysMenuController.java" />
+        <option value="$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/controller/SysLoginController.java" />
+        <option value="$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/controller/SysDictController.java" />
+        <option value="$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/controller/SysLogController.java" />
+        <option value="$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/controller/SysRoleController.java" />
+        <option value="$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/util/HttpUtils.java" />
+        <option value="$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/config/DruidStatFilter.java" />
+        <option value="$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/config/FeignConfig.java" />
+        <option value="$PROJECT_DIR$/Logistics-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/Logistics-producer/src/main/resources/banner.txt" />
+        <option value="$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/config/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/Logistics-common/src/main/java/com/zgwl/logistics/common/exception/KittyException.java" />
+        <option value="$PROJECT_DIR$/Logistics-monitor/pom.xml" />
+        <option value="$PROJECT_DIR$/Logistics-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/Logistics-producer/src/main/java/com/zgwl/logistics/producer/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/kitty-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/Logistics-producer/src/main/java/com/louis/kitty/producer/KittyProducerApplication.java" />
+        <option value="$PROJECT_DIR$/Logistics-producer/src/main/java/com/louis/kitty/producer/ProducerApplication.java" />
+        <option value="$PROJECT_DIR$/Logistics-producer/src/main/java/com/zgwl/logistics/producer/ProducerApplication.java" />
+        <option value="$PROJECT_DIR$/Logistics-producer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/ConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/config/CorsConfig.java" />
+        <option value="$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/controller/SysUserController.java" />
+        <option value="$PROJECT_DIR$/Logistics-admin/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/Logistics-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/controller/SysUserFeginController.java" />
+        <option value="$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/service/SysUserFeginService.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Logistics-producer" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-9" />
+    <option name="width" value="1937" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Logistics" type="b2602c69:ProjectViewProjectNode" />
+              <item name="logistics" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567156995675" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.17816092" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zgwl.logistics.consumer.model" />
+      <recent name="com.zgwl.logistics.consumer.config" />
+      <recent name="com.zgwl.logistics.consumer.service.impl" />
+      <recent name="com.zgwl.logistics.consumer.vo" />
+      <recent name="com.zgwl.logistics.monitor.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projects\vueProject\kitty\logistics" />
+      <recent name="D:\projects\vueProject\kitty\logistics\Logistics-consumer\src\main\java\com\zgwl\logistics\consumer" />
+      <recent name="D:\projects\vueProject\kitty\logistics\Logistics-admin\src\main\resources" />
+      <recent name="D:\projects\vueProject\kitty\logistics\Logistics-common\src\main\java\com\zgwl\logistics\common" />
+      <recent name="D:\project\vueProject\830\logistics\Logistics-consumer\src\main\java\com\zgwl\logistics\monitor" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ConsumerApplication">
+    <configuration name="AdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Logistics-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zgwl.logistics.admin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zgwl.logistics.admin.AdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Logistics-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zgwl.logistics.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zgwl.logistics.consumer.ConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MonitorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Logistics-monitor" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zgwl.logistics.monitor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zgwl.logistics.monitor.MonitorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.MonitorApplication" />
+      <item itemvalue="Spring Boot.AdminApplication" />
+      <item itemvalue="Spring Boot.ConsumerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ConsumerApplication" />
+        <item itemvalue="Spring Boot.AdminApplication" />
+        <item itemvalue="Spring Boot.MonitorApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f64b41b3-cf0d-42e6-b10a-a73f71e54e23" name="Default Changelist" comment="" />
+      <created>1567077200178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567077200178</updated>
+      <workItem from="1567077201630" duration="3025000" />
+      <workItem from="1567080407006" duration="6877000" />
+      <workItem from="1567087614536" duration="2280000" />
+      <workItem from="1567126512331" duration="10742000" />
+      <workItem from="1567140861157" duration="339000" />
+      <workItem from="1567141249499" duration="14572000" />
+      <workItem from="1567234139030" duration="30686000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="68521000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="1549" height="845" extended-state="1" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20254862" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.38244852" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8733244" weight="0.31792718" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.85254693" visible="true" weight="0.35154063" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" sideWeight="0.49932975" weight="0.32956153" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49932975" weight="0.32956153" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.14745308" side_tool="true" weight="0.28854313" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32492998" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.18712273" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" weight="0.3297587" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3297587" />
+      <window_info anchor="right" id="aiXcoder" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/controller/SysUserController.java</url>
+          <line>90</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Logistics-common/src/main/java/com/zgwl/logistics/common/page/PageRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/config/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-80">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/config/DruidStatViewServlet.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/config/MybatisConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/config/KaptchaConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/config/DruidConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/config/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/config/DruidDataSourceProperties.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/config/DruidStatFilter.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/security/UserDetailsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/config/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/security/JwtUserDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/security/spring-security-core/5.0.7.RELEASE/spring-security-core-5.0.7.RELEASE.jar!/org/springframework/security/access/prepost/PreAuthorize.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/security/JwtAuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/security/JwtUserDetails.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/security/JwtAuthenticatioToken.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/security/JwtAuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/util/SecurityUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/controller/SysLoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="42" column="50" selection-start-line="42" selection-start-column="50" selection-end-line="42" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/config/CorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-monitor/src/main/java/com/zgwl/logistics/monitor/MonitorApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-producer/Logistics-producer.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-producer/src/main/resources/banner.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-producer/src/main/docker/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/RuntimeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-common/src/main/java/com/zgwl/logistics/common/exception/LogisticsException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/config/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="41" column="54" selection-start-line="41" selection-start-column="54" selection-end-line="41" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-monitor/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="71" column="21" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/sevice/SysUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-producer/src/main/java/com/zgwl/logistics/producer/ProducerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-producer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-producer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="76" column="43" selection-start-line="76" selection-start-column="43" selection-end-line="76" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-producer/src/main/java/com/zgwl/logistics/producer/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-producer/src/main/java/com/zgwl/logistics/producer/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-producer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-producer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="28" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-producer/src/main/java/com/zgwl/logistics/producer/ProducerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/config/CorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="57" lean-forward="true" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-producer/src/main/java/com/zgwl/logistics/producer/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/io/github/openfeign/feign-core/9.5.1/feign-core-9.5.1.jar!/feign/SynchronousMethodHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="142" column="12" selection-start-line="142" selection-start-column="12" selection-end-line="142" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/config/FeignConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/reflect/InvocationTargetException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-starter-openfeign/2.0.0.RELEASE/spring-cloud-starter-openfeign-2.0.0.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="55" column="56" selection-start-line="55" selection-start-column="53" selection-end-line="55" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="54" column="51" selection-start-line="54" selection-start-column="51" selection-end-line="54" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-admin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="123" column="21" selection-start-line="119" selection-start-column="7" selection-end-line="123" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/ConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-admin/src/main/java/com/zgwl/logistics/admin/controller/SysUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-admin/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="12" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-consumer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/controller/SysUserFeginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#818#819#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logistics-consumer/src/main/java/com/zgwl/logistics/consumer/service/SysUserFeginService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.17816092" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.17816092" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>logistics</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.17816092" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.17816092" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

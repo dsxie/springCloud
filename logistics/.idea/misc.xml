@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/kitty-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/kitty-backup/pom.xml" />
+        <option value="$PROJECT_DIR$/kitty-common/pom.xml" />
+        <option value="$PROJECT_DIR$/kitty-core/pom.xml" />
+        <option value="$PROJECT_DIR$/kitty-monitor/pom.xml" />
+        <option value="$PROJECT_DIR$/kitty-pom/pom.xml" />
+        <option value="$PROJECT_DIR$/Logistics-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/Logistics-common/pom.xml" />
+        <option value="$PROJECT_DIR$/Logistics-monitor/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Logistics-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/kitty-producer/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Logistics-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/kitty-conifg/pom.xml" />
+        <option value="$PROJECT_DIR$/kitty-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/kitty-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/kitty-pom/pom.xml" />
+        <option value="$PROJECT_DIR$/kitty-producer2/pom.xml" />
+        <option value="$PROJECT_DIR$/kitty-zuul/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Logistics-consumer" />
+        <module name="Logistics-common" />
+        <module name="logistics-producer" />
+        <module name="Logistics-monitor" />
+        <module name="Logistics-admin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="kitty-config" target="1.8" />
+      <module name="kitty-consul" target="1.8" />
+      <module name="kitty-consumer" target="1.8" />
+      <module name="kitty-hystrix" target="1.8" />
+      <module name="kitty-pom" target="1.8" />
+      <module name="kitty-producer2" target="1.8" />
+      <module name="kitty-zipkin" target="1.8" />
+      <module name="kitty-zuul" target="1.8" />
+      <module name="Logistics-admin" target="1.8" />
+      <module name="Logistics-backup" target="1.8" />
+      <module name="Logistics-common" target="1.8" />
+      <module name="Logistics-consumer" target="1.8" />
+      <module name="Logistics-core" target="1.8" />
+      <module name="Logistics-monitor" target="1.8" />
+      <module name="Logistics-producer" target="1.8" />
+      <module name="logistics-producer" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Logistics-admin" options="-parameters" />
+      <module name="Logistics-backup" options="-parameters" />
+      <module name="Logistics-common" options="-parameters" />
+      <module name="Logistics-consumer" options="-parameters" />
+      <module name="Logistics-core" options="-parameters" />
+      <module name="Logistics-monitor" options="-parameters" />
+      <module name="Logistics-producer" options="-parameters" />
+      <module name="kitty-config" options="-parameters" />
+      <module name="kitty-consumer" options="-parameters" />
+      <module name="kitty-hystrix" options="-parameters" />
+      <module name="kitty-producer2" options="-parameters" />
+      <module name="kitty-zuul" options="-parameters" />
+      <module name="logistics-producer" options="-parameters" />
+    </option>
+  </component>
+</project>

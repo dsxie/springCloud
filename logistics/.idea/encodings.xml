@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Logistics-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Logistics-backup" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Logistics-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Logistics-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Logistics-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Logistics-monitor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Logistics-producer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Logistics-producer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Logistics-producer" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Logistics-admin/Logistics-admin.iml" filepath="$PROJECT_DIR$/Logistics-admin/Logistics-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logistics-common/Logistics-common.iml" filepath="$PROJECT_DIR$/Logistics-common/Logistics-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logistics-consumer/Logistics-consumer.iml" filepath="$PROJECT_DIR$/Logistics-consumer/Logistics-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Logistics-monitor/Logistics-monitor.iml" filepath="$PROJECT_DIR$/Logistics-monitor/Logistics-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/logistics.iml" filepath="$PROJECT_DIR$/.idea/logistics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logistics-producer.iml" filepath="$PROJECT_DIR$/logistics-producer.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,63 @@
+server:
+  port: 8004
+spring:
+  application:
+    name: Logistics-consumer
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      discovery:
+        serviceName: ${spring.application.name}    # 注册到consul的服务名称
+
+  datasource:
+    url: jdbc:mysql://120.78.94.68:3316/logistics_20190830?characterEncoding=utf8&useUnicode=true&autoreconnect=true&serverTimezone=GMT&useSSL=false
+    username: root
+    password: cloudDb@6677123$
+    driver-class-name: com.mysql.jdbc.Driver
+
+feign:
+  client:
+    default:
+      #这里时间一定要调长，否则feign客户端会报ReadTimeOut  服务端报Error parsing HTTP request header
+      connectTimeout: 60000
+      readTimeout: 60000
+      loggerLevel: basic
+
+#  datasource:
+#    name: druidDataSource
+#    type: com.alibaba.druid.pool.DruidDataSource
+#    druid:
+#      driver-class-name: com.mysql.jdbc.Driver
+#      url: jdbc:mysql://120.78.94.68:3316/logistics_20190830?characterEncoding=utf8&useUnicode=true&autoreconnect=true&serverTimezone=GMT&useSSL=false
+#      username: root
+#      password: cloudDb@6677123$
+#      filters: stat,wall,log4j,config
+#      max-active: 100
+#      initial-size: 1
+#      max-wait: 60000
+#      min-idle: 1
+#      time-between-eviction-runs-millis: 60000
+#      min-evictable-idle-time-millis: 300000
+#      validation-query: select 'x'
+#      test-while-idle: true
+#      test-on-borrow: false
+#      test-on-return: false
+#      pool-prepared-statements: true
+#      max-open-prepared-statements: 50
+#      max-pool-prepared-statement-per-connection-size: 20
+#ribbon的超时时间
+#hystrix的超时时间
+hystrix:
+  command:
+    default:
+      execution:
+        timeout:
+          enabled: true
+        isolation:
+          thread:
+            timeoutInMilliseconds: 30000
+
+ribbon:
+  ReadTimeout: 30000
+  ConnectTimeout: 30000

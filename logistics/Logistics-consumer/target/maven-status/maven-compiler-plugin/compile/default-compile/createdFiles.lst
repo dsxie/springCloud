@@ -1,0 +1,5 @@
+com\zgwl\logistics\consumer\controller\SysUserFeginController.class
+com\zgwl\logistics\consumer\service\SysUserFeginService.class
+com\zgwl\logistics\consumer\config\CorsConfig.class
+com\zgwl\logistics\consumer\ConsumerApplication.class
+com\zgwl\logistics\consumer\config\FeignConfig.class
